@@ -28,3 +28,7 @@ note: environment position ->  C:\Users\richy\anaconda3\envs\SMM2526
 
 ### Notes
 matrix moltiplication: (m,k) * (k,n) -> (m,n)
+
+
+### Tutor
+francesco.pivi2@unibo.it
