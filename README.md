@@ -5,7 +5,7 @@
 - suggest to work: on virtual environment
 
 ## Create Virtual Environment
-- apri anaconda primpt da terminale
+- apri anaconda prompt da terminale
 - conda create --name SMM2526
 - conda activate SMM2526
 - select kernel environament inside VS in the ipynb
